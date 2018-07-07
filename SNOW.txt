@@ -1,0 +1,87 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Material"] = "models/debug/debugwhite",
+				["UniqueID"] = "3857381717",
+				["ClassName"] = "model",
+				["Position"] = Vector(1.85205078125, 0.2177734375, -0.22802734375),
+				["Model"] = "models/half-dead/red orchestra 2/sov/w_helmet.mdl",
+				["Angles"] = Angle(-3.817804813385, -89.139358520508, -87.925559997559),
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Angles"] = Angle(-78.194328308105, -81.866668701172, -96.386413574219),
+				["UniqueID"] = "3322567087",
+				["Size"] = 0.075,
+				["Position"] = Vector(5.96484375, -0.51513671875, -0.4228515625),
+				["Bone"] = "right upperarm",
+				["Model"] = "models/props_phx/construct/metal_plate_pipe.mdl",
+				["Material"] = "models/debug/debugwhite",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(38.405742645264, -6.5370564698242e-05, -7.2452370659448e-05),
+				["UniqueID"] = "2199753996",
+				["Position"] = Vector(-3.1640625, -1.88525390625, -2.14111328125),
+				["Bone"] = "spine 4",
+				["Model"] = "models/khrcw2/doipack/w_kar98k.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(1.6299765110016, -176.73223876953, 82.132698059082),
+				["UniqueID"] = "952803950",
+				["ClassName"] = "model",
+				["Position"] = Vector(7.20947265625, -0.4091796875, -4.042724609375),
+				["Bone"] = "right upperarm",
+				["Model"] = "models/khrcw2/doipack/w_brassknuckles.mdl",
+				["Material"] = "models/props/cs_assault/pylon",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-78.224403381348, -49.529262542725, -39.87003326416),
+				["UniqueID"] = "2213784511",
+				["Position"] = Vector(-0.670166015625, 4.418212890625, -1.9365234375),
+				["Bone"] = "pelvis",
+				["Model"] = "models/pac/jiggle/clothing/base_trench_1_gravity.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(2.1376328468323, -0.38503763079643, -177.76507568359),
+				["UniqueID"] = "197457854",
+				["Position"] = Vector(8.342529296875, -0.4873046875, -4.4658203125),
+				["Size"] = 0.35,
+				["Bone"] = "right upperarm",
+				["Model"] = "models/khrcw2/doipack/w_usbinoculars.mdl",
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3356303087",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},
