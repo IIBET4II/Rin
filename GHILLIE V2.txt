@@ -1,0 +1,140 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-27.35094833374, -81.876174926758, -13.867893218994),
+				["UniqueID"] = "799886486",
+				["Position"] = Vector(0.9189453125, -0.0302734375, -0.310546875),
+				["Size"] = 0.4,
+				["Bone"] = "left forearm",
+				["Model"] = "models/props_foliage/urban_bush_angled_64.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(85.735122680664, 40.325695037842, 23.467668533325),
+				["Position"] = Vector(2.7216796875, -1.43701171875, -0.462890625),
+				["ClassName"] = "model",
+				["Size"] = 0.175,
+				["Model"] = "models/props_foliage/shrub_small.mdl",
+				["UniqueID"] = "1825965674",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(32.784965515137, -96.19995880127, 163.81788635254),
+				["UniqueID"] = "799886486",
+				["Position"] = Vector(4.82568359375, 1.0654296875, 4.379638671875),
+				["Size"] = 0.4,
+				["Bone"] = "right upperarm",
+				["Model"] = "models/props_foliage/urban_bush_angled_64.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(75.710327148438, 80.324699401855, 165.8715057373),
+				["UniqueID"] = "799886486",
+				["Position"] = Vector(2.336669921875, -0.69580078125, 0.25),
+				["Size"] = 0.4,
+				["Bone"] = "right forearm",
+				["Model"] = "models/props_foliage/urban_bush_angled_64.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-33.901954650879, 106.48524475098, 0.2700466811657),
+				["UniqueID"] = "799886486",
+				["Position"] = Vector(2.996826171875, -1.76806640625, -6.061767578125),
+				["Size"] = 0.4,
+				["Bone"] = "left upperarm",
+				["Model"] = "models/props_foliage/urban_bush_angled_64.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(3.8826637268066, -103.93717956543, -88.279151916504),
+				["UniqueID"] = "2745061166",
+				["Position"] = Vector(-6.238037109375, 2.775390625, 3.990966796875),
+				["Size"] = 0.35,
+				["Bone"] = "spine 4",
+				["Model"] = "models/props_foliage/urban_fern01.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(62.641639709473, -84.272689819336, -0.62749880552292),
+				["UniqueID"] = "4269254950",
+				["Position"] = Vector(12.041198730469, 2.4091796875, 2.7607421875),
+				["Size"] = 0.5,
+				["Bone"] = "right thigh",
+				["Model"] = "models/props_foliage/urban_bush_angled_64.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[8] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-4.0681471824646, -101.40589141846, -113.35636901855),
+				["UniqueID"] = "1699056590",
+				["Position"] = Vector(-25.8466796875, 4.6513671875, 6.734619140625),
+				["Size"] = 0.175,
+				["Bone"] = "spine 4",
+				["Model"] = "models/props_foliage/urban_vine01.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[9] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(24.074081420898, -83.935165405273, 9.9123630523682),
+				["UniqueID"] = "799886486",
+				["Position"] = Vector(12.083679199219, 2.31884765625, -1.81982421875),
+				["Size"] = 0.55,
+				["Bone"] = "left thigh",
+				["Model"] = "models/props_foliage/urban_bush_angled_64.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[10] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-8.9598159790039, -113.13798522949, -112.01956939697),
+				["UniqueID"] = "3267721147",
+				["Position"] = Vector(-20.58349609375, 19.3408203125, 4.878662109375),
+				["Size"] = 0.175,
+				["Bone"] = "spine 4",
+				["Model"] = "models/props_foliage/urban_vine01.mdl",
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2952772241",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},
