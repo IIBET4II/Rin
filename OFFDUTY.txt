@@ -1,0 +1,78 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Angles"] = Angle(-78.194328308105, -81.866668701172, -96.386413574219),
+				["UniqueID"] = "3322567087",
+				["Size"] = 0.075,
+				["Position"] = Vector(5.96484375, -0.51513671875, -0.4228515625),
+				["Bone"] = "right upperarm",
+				["Model"] = "models/props_phx/construct/metal_plate_pipe.mdl",
+				["Material"] = "models/props_debris/plasterwall009d",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-78.224403381348, -49.529262542725, -39.87003326416),
+				["UniqueID"] = "2213784511",
+				["ClassName"] = "model",
+				["Position"] = Vector(-0.670166015625, 4.418212890625, -1.9365234375),
+				["Bone"] = "pelvis",
+				["Model"] = "models/pac/jiggle/clothing/base_trench_1_gravity.mdl",
+				["Material"] = "models/props_vents/borealis_vent001b",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Angles"] = Angle(88.177505493164, -179.99887084961, -179.99822998047),
+				["UniqueID"] = "4133003328",
+				["Size"] = 0.075,
+				["Position"] = Vector(5.71240234375, -0.492919921875, -0.486328125),
+				["Bone"] = "right upperarm",
+				["Model"] = "models/hunter/tubes/tube2x2x025.mdl",
+				["Material"] = "models/props/cs_assault/pylon",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Angles"] = Angle(88.177505493164, -179.99887084961, -179.99822998047),
+				["UniqueID"] = "4099345246",
+				["Size"] = 0.075,
+				["Position"] = Vector(10.00537109375, -0.4482421875, -0.46337890625),
+				["Bone"] = "right upperarm",
+				["Model"] = "models/hunter/tubes/tube2x2x025.mdl",
+				["Material"] = "models/props/cs_assault/pylon",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Material"] = "models/props_animated_breakable/smokestack/brickwall002a",
+				["UniqueID"] = "590944477",
+				["ClassName"] = "model",
+				["Position"] = Vector(4.407958984375, -1.45361328125, -0.120849609375),
+				["Model"] = "models/humans/airborne/helmet.mdl",
+				["Angles"] = Angle(0.64897662401199, -68.861228942871, -90.695899963379),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3356303087",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},
