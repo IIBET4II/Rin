@@ -1,0 +1,145 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-80.778137207031, -102.36854553223, 12.213480949402),
+				["UniqueID"] = "2213784511",
+				["ClassName"] = "model",
+				["Position"] = Vector(-0.670166015625, 4.418212890625, -1.9365234375),
+				["Bone"] = "pelvis",
+				["Model"] = "models/pac/jiggle/clothing/base_trench_1_gravity.mdl",
+				["Material"] = "models/props_vents/borealis_vent001b",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Angles"] = Angle(43.698921203613, -73.418670654297, 107.15656280518),
+				["UniqueID"] = "4125615527",
+				["Size"] = 0.075,
+				["Position"] = Vector(3.458984375, 3.295654296875, -1.48583984375),
+				["Bone"] = "right clavicle",
+				["Model"] = "models/props_phx/construct/metal_plate_curve.mdl",
+				["Material"] = "models/props/cs_assault/pylon",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Angles"] = Angle(-78.194328308105, -81.866668701172, -96.386413574219),
+				["UniqueID"] = "3322567087",
+				["Size"] = 0.075,
+				["Position"] = Vector(5.96484375, -0.51513671875, -0.4228515625),
+				["Bone"] = "right upperarm",
+				["Model"] = "models/props_phx/construct/metal_plate_pipe.mdl",
+				["Material"] = "models/props_debris/plasterwall009d",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-8.8840217590332, -176.85954284668, -10.135033607483),
+				["UniqueID"] = "3133548768",
+				["Position"] = Vector(7.3008270263672, 9.48388671875, -2.197265625),
+				["Bone"] = "spine 2",
+				["Model"] = "models/khrcw2/doipack/w_sw1917.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Angles"] = Angle(51.695972442627, -90.733993530273, 80.276573181152),
+				["UniqueID"] = "3123781667",
+				["Size"] = 0.075,
+				["Position"] = Vector(3.5859375, 3.2646484375, 1.400390625),
+				["Bone"] = "left clavicle",
+				["Model"] = "models/props_phx/construct/metal_plate_curve.mdl",
+				["Material"] = "models/props/cs_assault/pylon",
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["UniqueID"] = "3122140783",
+				["Angles"] = Angle(-1.4766420125961, -68.95532989502, -91.353096008301),
+				["Color"] = Vector(193, 193, 193),
+				["Position"] = Vector(4.40283203125, -1.544921875, -0.23779296875),
+				["Model"] = "models/humans/airborne/helmet.mdl",
+				["Material"] = "models/props_debris/composite_debris",
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(5.8994150161743, -2.9805796146393, 6.413553237915),
+				["UniqueID"] = "2595824263",
+				["Position"] = Vector(-5.80810546875, -2.33056640625, -5.31298828125),
+				["Bone"] = "spine 4",
+				["Model"] = "models/khrcw2/doipack/w_enfield.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[8] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "4133003328",
+				["Angles"] = Angle(88.177505493164, -179.99887084961, -179.99822998047),
+				["ClassName"] = "model",
+				["Size"] = 0.075,
+				["Material"] = "models/props/cs_assault/pylon",
+				["Color"] = Vector(255, 0, 0),
+				["Bone"] = "right upperarm",
+				["Model"] = "models/hunter/tubes/tube2x2x025.mdl",
+				["Position"] = Vector(5.71240234375, -0.492919921875, -0.486328125),
+			},
+		},
+		[9] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "4099345246",
+				["Angles"] = Angle(88.177505493164, -179.99887084961, -179.99822998047),
+				["ClassName"] = "model",
+				["Size"] = 0.075,
+				["Material"] = "models/props/cs_assault/pylon",
+				["Color"] = Vector(255, 0, 0),
+				["Bone"] = "right upperarm",
+				["Model"] = "models/hunter/tubes/tube2x2x025.mdl",
+				["Position"] = Vector(10.00537109375, -0.4482421875, -0.46337890625),
+			},
+		},
+		[10] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(80.035049438477, 117.81422424316, 122.45057678223),
+				["UniqueID"] = "436354614",
+				["Position"] = Vector(2.5361480712891, 10.45458984375, -1.10498046875),
+				["Bone"] = "spine 2",
+				["Model"] = "models/ustankerv2_pistol_holster_belt.mdl",
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3356303087",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},
